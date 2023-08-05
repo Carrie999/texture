@@ -2,9 +2,8 @@
    do lots of textures and change the color for free
 
 ## Video
-  <video width="600" height="400" controls poster="./cover.png">
-         <source src="./introduce.mp4" type="video/mp4" />
-   </video>
+   <video src="./introduce.mp4" width=180/>
+      
 ## Technologies Used
 
 - [Next.js 13](https://nextjs.org/docs/getting-started)
