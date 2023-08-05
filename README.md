@@ -1,6 +1,8 @@
 # Texture
    do lots of textures and change the color for free
+   
  ![vover](./cover.png)
+ 
 ## Technologies Used
 
 - [Next.js 13](https://nextjs.org/docs/getting-started)
