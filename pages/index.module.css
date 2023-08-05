@@ -1,0 +1,37 @@
+.main {
+    /* display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center; */
+    padding: 0rem;
+    min-height: 100vh;
+    background: #fff;
+    text-align: center;
+  
+  }
+  
+  .mainTexture{
+    width: 84vw;
+    height: 84vh;
+    /* background: red; */
+    overflow: hidden;
+    border-radius: 20px;
+    margin:0 auto;
+    margin-top: 40px;
+    box-sizing: content-box;
+    /* box-shadow:2px 2px 2px 1px rgba(0, 0, 0, 0.2); */
+  }
+  
+  
+  .controlColor{
+    margin-top: 20px;
+    display: inline-block;
+  }
+  
+  
+  
+  .selectColor{
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+  }

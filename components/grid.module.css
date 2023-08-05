@@ -1,0 +1,15 @@
+
+.line{
+  width: 100vw;
+  height: 1px;
+  background: #ffffff;
+  margin-bottom: 3vw;
+ 
+}
+.line2{
+ position: absolute;
+ top: -500px;
+ transform: rotate(90deg);
+ z-index:10;
+}
+

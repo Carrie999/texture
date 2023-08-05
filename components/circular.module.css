@@ -1,0 +1,39 @@
+
+.line{
+  width: 90vw;
+  height: 40px;
+ background: red;
+ margin-bottom: 40px;
+ opacity: 0.5;
+}
+.line2{
+ position: absolute;
+ top: -40px;
+ transform: rotate(90deg);
+ z-index:10;
+}
+
+.piece{
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  white-space: nowrap;
+  
+}
+.svg{
+  width: 200px;
+  height: 200px;
+  transform: scale(0.48);
+  transform-origin: 0 0;
+  white-space: nowrap;
+  /* margin-right: 100px; */
+  /* background: red; */
+}
+.svg2{
+  width: 200px;
+  height: 200px;
+  transform: scale(0.49) rotate(180deg);
+  transform-origin: 0 0;
+  white-space: nowrap;
+  
+}

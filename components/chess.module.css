@@ -1,0 +1,8 @@
+.block {
+  width: 4vw;
+  height: 4vw;
+  background: #c0c6a2;
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+}
