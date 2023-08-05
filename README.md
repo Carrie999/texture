@@ -1,9 +1,6 @@
 # Texture
    do lots of textures and change the color for free
-
-## Video
-   <video src="./introduce.mp4" width=180/>
-      
+ ![vover](./cover.png)
 ## Technologies Used
 
 - [Next.js 13](https://nextjs.org/docs/getting-started)
